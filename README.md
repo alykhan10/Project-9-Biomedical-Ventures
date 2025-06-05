@@ -1,6 +1,6 @@
-# Project #9: Medical Robotics
-# Prototyping an Articulated Manipulator for Cervical Cancer Detection
+# Project #9: Biomedical Ventures
+# Pitching a Commercialization Plan for an Orthopedic Knee Mobility Device
 
-● Modelled the robot manipulator using 3 spherical wrist joints and 1 prismatic joint to maximize geometric manipulability   
-● Sketched the 3D kinematic diagram and parameterized the serial links according to the Denavit-Hartenberg convention  
-● Derived the transformation matrices for the end-effector position and the Jacobian matrix via MATLAB's robotics toolbox 
+● Obtained a serviceable obtainable market of $1.4-1.7B from a total addressable market of $11.5B for mobility aids          
+● Mapped out distribution channels using a customer decision network with direct supply to healthcare providers          
+● Determined a competitive regulatory strategy for FDA approval under the de novo 510(k) medical device class          
